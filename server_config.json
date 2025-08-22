@@ -1,0 +1,5 @@
+{
+  "word_list": "data/words.txt",
+  "default_max_rounds": 6,
+  "default_seed": 42
+}

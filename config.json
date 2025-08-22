@@ -1,0 +1,5 @@
+{
+  "max_rounds": 6,
+  "word_list": "data/words.txt",
+  "rng_seed": 42
+}
